@@ -1,4 +1,4 @@
 Resolution: 3840x2160
 Margin: 40x40 + 5x5 (shadow)
-Border width: 20x20
-Goal: 400 + 20
+Border width: 15x15
+Goal: 404 + 15
